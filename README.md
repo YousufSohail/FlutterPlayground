@@ -8,7 +8,7 @@ This is targeting all 6 supported platforms. Android, iOS, Web, MacOS, Windows &
 ## 🔭 Feature Scope
 Plan is to build it into a full fledged app with data persistence and networking. Resulting apps will let users browse trending "language" related repositories on Github. They will consume Github's free APIs to fetch, store and display trending repositories related to programming languages.
 
-This project will have feature parity with my Android Playground project, [🐊 Alligitor](https://github.com/YousufSohail/Alligitor#-alligitor). This will help me and anyone interested to compare the implementaion on same app in Native Android vs Flutter. 
+This project will have feature parity with my Android Playground project, [🐊 Alligitor](https://github.com/YousufSohail/Alligitor#readme). This will help me and anyone interested to compare the implementaion on same app in Native Android vs Flutter.
 
 ## 🎳 Backlog
 - Incorporate Dependency Injection
