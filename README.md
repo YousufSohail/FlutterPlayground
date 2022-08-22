@@ -1,14 +1,14 @@
-# Flutter Playground
+# ⛹️‍♂️ Flutter Playground 
 
-This is my playground project for Flutter. 
+This is Flutter playground project for me to hands on with this promising new way to develop clients. 
 
-## Platforms
+## 📱🖥🕸 Platforms
 This is targeting all 6 supported platforms. Android, iOS, Web, MacOS, Windows & Linus
 
-# Feature Scope
+## 🔭 Feature Scope
 Plan is to build it into a full fledged app with data persistence and networking. Resulting apps will let users browse trending "language" related repositories on Github. They will consume Github's free APIs to fetch, store and display trending repositories related to programming languages.
 
-## Backlog
+## 🎳 Backlog
 - Incorporate Dependency Injection
 - Setup Network Layer
 - Setup Persistence Layer
@@ -19,7 +19,7 @@ Plan is to build it into a full fledged app with data persistence and networking
 - Implement Pull to Refresh
 - Configure Dark Mode
 
-## Resources
+## 📚 Resources
 
 - [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
 - [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
